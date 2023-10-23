@@ -8,7 +8,7 @@ With professional experience, I have honed my skills in JavaScript, Vue.js, Nuxt
 
 I'm committed to staying up-to-date with industry trends, ensuring that my contributions remain cutting-edge and impactful and I'm always eager to take on new challenges and opportunities.
 
-You can find me on GitHub as @icvitkov, where I continue to explore and contribute to the world of frontend development using these technologies. Let's connect and collaborate to shape the future of web technology! 🌟
+Let's connect and collaborate to shape the future of web technology! 🌟
 
 
 ### Talking about Personal Stuff:
