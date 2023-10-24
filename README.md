@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Ivana!](https://icvitkov.github.io)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-cvitkovi%C4%87-6b1092209/)
 
 I'm a frontend developer with a strong passion for creating impactful frontend solutions. 
 
